@@ -1,0 +1,12 @@
+What are this tags for?
+- <br>
+- <hr>
+- <ul>
+- <ol>
+- <li>
+- <strong> 
+- <b>
+- <em> 
+- <i>
+- <u>
+What is an empty tag? Give an example
