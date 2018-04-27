@@ -9,4 +9,7 @@ What are this tags for?
 - <em> 
 - <i>
 - <u>
+- <h1>
+- <h6>
+
 What is an empty tag? Give an example
