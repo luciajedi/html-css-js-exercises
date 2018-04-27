@@ -11,5 +11,7 @@ What are this tags for?
 - <u>
 - <h1>
 - <h6>
-
+- <tr>
+- <th>
+- <td>
 What is an empty tag? Give an example
