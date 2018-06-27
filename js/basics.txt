@@ -1,0 +1,12 @@
+HTML, CSS, JS - Jedi Course
+JS Exercises
+------------------------
+
+Basic javascript stuff. Make a function that...:
+- Calculates the square of a given number.
+- Check if a number is even or odd.
+- Calculates the factorial of a number.
+- Returns a random number.
+- Returns which of 4 given numbers is the biggest.
+- Call another function.
+- Uses console.log() to show the content of an array with the months of the year.

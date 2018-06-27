@@ -1,0 +1,5 @@
+HTML, CSS, JS - Jedi Course
+Sass Exercises
+------------------------
+
+Search about !default. Write an example of a useful use of !default on a variable.

@@ -1,0 +1,14 @@
+HTML, CSS, JS - Jedi Course
+HTML Exercises
+------------------------
+
+What do this attributes do? Name at least one tag where they belong.
+
+- href
+- src
+- width
+- colspan
+- rowspan
+- placeholder
+- default
+- selected

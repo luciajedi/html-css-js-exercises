@@ -1,4 +1,9 @@
+HTML, CSS, JS - Jedi Course
+HTML Exercises
+------------------------
+
 What are this tags for?
+
 - <br>
 - <hr>
 - <ul>
@@ -14,4 +19,8 @@ What are this tags for?
 - <tr>
 - <th>
 - <td>
+- <sub>
+- <sup>
+- <legend>
+
 What is an empty tag? Give an example

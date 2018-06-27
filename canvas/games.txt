@@ -1,0 +1,15 @@
+HTML, CSS, JS - Jedi Course
+Canvas Exercises
+------------------------
+
+Write a little game in Javascript. Some examples:
+
+- Snake
+- Martians
+- Flappy birds
+
+It must have: 
+
+- a triangle
+- something with this color: #18cbe5
+- keyboard controls

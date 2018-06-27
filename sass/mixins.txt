@@ -1,0 +1,5 @@
+HTML, CSS, JS - Jedi Course
+Sass Exercises
+------------------------
+
+What is the use of the @content directive in mixins? Give an example.

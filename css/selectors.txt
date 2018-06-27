@@ -1,0 +1,55 @@
+HTML, CSS, JS - Jedi Course
+CSS Exercises
+------------------------
+
+Which selector do we need?
+
+a) To get the <p>
+
+<div>
+   <p> </p>
+</div>
+
+b) To get the first <p>
+
+<div class="first">
+  <p class="first"> </p>
+  <p> </p>
+</div>
+
+c) To get the middle <li>
+
+<ul>
+ <li>
+ <li>
+ <li>
+</ul>
+
+d) To get all <p> inside <div>
+
+<div>
+  <p> </p>
+  <form>
+    <p> </p>
+  </form>
+</div>
+<p>
+
+e) To get the deepest <p>
+
+<div class="second">
+  <p id="first" class="second third">
+     <p class="second third">
+        <p class="third"> </p>
+      </p>
+  </p>
+<div>
+
+Bonus: is anything wrong here?
+
+<p id="first text">
+  <p id="second text">
+     <p id="third text"></p>
+  </p>
+</p>
+  

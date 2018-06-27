@@ -1,0 +1,17 @@
+HTML, CSS, JS - Jedi Course
+CSS Exercises
+------------------------
+
+Priorities:
+
+https://marksheet.io/css-priority.html
+
+Selectors:
+
+http://flukeout.github.io/
+
+Flexbox:
+
+http://flexboxfroggy.com/
+
+http://www.flexboxdefense.com/

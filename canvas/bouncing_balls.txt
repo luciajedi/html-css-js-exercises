@@ -1,0 +1,5 @@
+HTML, CSS, JS - Jedi Course
+Canvas Exercises
+------------------------
+
+Draw 3 balls that bounce inside the canvas.

@@ -1,0 +1,5 @@
+HTML, CSS, JS - Jedi Course
+HTML Exercises
+------------------------
+
+Make a table to look exactly as the one in the picture (table.png).

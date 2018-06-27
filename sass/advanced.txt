@@ -1,0 +1,5 @@
+HTML, CSS, JS - Jedi Course
+Sass Exercises
+------------------------
+
+You can make loops and conditionals in Sass. Which situations require this functionalities? Write some code as example.
