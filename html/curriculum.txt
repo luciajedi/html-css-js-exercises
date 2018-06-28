@@ -1,0 +1,11 @@
+HTML, CSS, JS - Jedi Course
+HTML Exercises
+------------------------
+
+Create a page with two sections. 
+In the first one, enter your contact information and in the second one, explain your professional goals and current studies. 
+Also list your top qualities, and at the top part of the document add a profile image.
+
+Finally, create a language section using a table. For each language you must specify writing and oral skills level.
+
+At the end of the document, add a button that makes the user go to top.

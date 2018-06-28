@@ -1,0 +1,8 @@
+HTML, CSS, JS - Jedi Course
+CSS Exercises
+------------------------
+
+Search for other interesting properties and make a website with, at least:
+- a div with rounded borders 
+- some text with custom font and shadow
+- a text with a lot of space between its letters, no additional spaces allowed

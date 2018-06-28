@@ -1,0 +1,5 @@
+HTML, CSS, JS - Jedi Course
+Libraries Exercises
+------------------------
+
+Create an accordion and then put a numeric input on top of it to modify how many accordions appear on-screen.

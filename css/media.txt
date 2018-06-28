@@ -1,0 +1,8 @@
+HTML, CSS, JS - Jedi Course
+CSS Exercises
+------------------------
+
+Code a file with @media css rules where the body changes color when the screen is:
+- the media is a screen with max width 50px
+- min width 60px and max width 150px
+- the media is a printer with 

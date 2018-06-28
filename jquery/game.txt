@@ -1,0 +1,11 @@
+HTML, CSS, JS - Jedi Course
+JQuery Exercises
+------------------------
+
+Card Game
+
+Make a "find the pair" game.
+- 4x3 rows
+- play with both mouse and keyboard 
+- when two identical cards are found, they fade out
+- timer on top, after 15min it is game over and it should appear on screen

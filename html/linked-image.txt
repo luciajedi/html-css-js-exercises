@@ -1,0 +1,5 @@
+HTML, CSS, JS - Jedi Course
+HTML Exercises
+------------------------
+
+Create a page with an image, and then turn it to a link to the Google homepage, so if you click in it, it will take you there.

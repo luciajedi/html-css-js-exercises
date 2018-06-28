@@ -1,0 +1,10 @@
+HTML, CSS, JS - Jedi Course
+jQuery Exercises
+------------------------
+
+Create and animate, with JQuery and CSS animations:
+
+- a div that rotates around vertical axis (Y) and each time it rotates it changes its photo/background
+- a div that goes big and small (with buttons for example)
+- a div that moves in circles
+- a div that fades out (disappear), with a button or with a timer

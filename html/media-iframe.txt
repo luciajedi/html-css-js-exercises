@@ -1,0 +1,10 @@
+HTML, CSS, JS - Jedi Course
+HTML Exercises
+------------------------
+
+Make a website that reproduces a local video and audio on a loop, but with controls so they can be stopped.
+It also should have a youtube video, that starts at second 5.
+
+Here you will find the video and audio example, but you can download any other:
+https://drive.google.com/open?id=1CWA0cx4i7qvMMF_861Io1Sj0NxXvII1P
+

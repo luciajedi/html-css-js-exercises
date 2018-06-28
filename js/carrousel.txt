@@ -2,4 +2,5 @@ HTML, CSS, JS - Jedi Course
 JS Exercises
 ------------------------
 
-Code a carrousel of images, both HTML and JS, without the CSS. The images are "summerpromo.png", "get2x1.png" and "newclients.png".
+Code a carrousel of images, both HTML and JS, without the CSS. The images are "red.png", "blue.png" and "green.png".
+It should change images every 2 seconds and also with some buttons.
