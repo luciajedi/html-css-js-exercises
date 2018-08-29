@@ -1,6 +1,5 @@
-HTML, CSS, JS - Jedi Course
-JQuery Exercises
-------------------------
+# HTML, CSS, JS - Jedi Course
+## JQuery Exercises
 
 #### PokeTable
 
@@ -23,7 +22,7 @@ If there are no results, or the field is NULL just put "None" or something.
 
 There are only [NUM] IDs.
 
-#### This
+#### this
 
 Make a web with an input that every time the value is changed, it will show the value + "-".
 For example, if you write "a" it will appear "a-" and then if you write "b" it will appear like "a-b-".
