@@ -1,6 +1,5 @@
-HTML, CSS, JS - Jedi Course
-Canvas Exercises
-------------------------
+# HTML, CSS, JS - Jedi Course
+## Canvas Exercises
 
 #### Bouncing balls - Class
 
