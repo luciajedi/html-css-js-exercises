@@ -3,3 +3,20 @@ HTML Exercises
 ------------------------
 
 Make a table to look exactly as the one in the picture (table.png).
+
+You can use this code for styling:
+
+```html
+<head>
+    <style>
+        table, tr, td, th{
+            border-collapse: collapse;	
+        }
+        td, th{
+            text-align: center;
+            border:1px solid black;
+            width: 20%;
+        }
+    </style>
+</head>
+```

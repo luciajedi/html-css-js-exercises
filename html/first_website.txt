@@ -1,5 +1,0 @@
-HTML, CSS, JS - Jedi Course
-HTML Exercises
-------------------------
-
-Make a simple web, just a Hello World, with all basic necessary tags, and also h1, hr, br and p.

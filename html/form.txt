@@ -1,5 +1,0 @@
-HTML, CSS, JS - Jedi Course
-HTML Exercises
-------------------------
-
-Create a login form with user, password and send inputs/buttons.

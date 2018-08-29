@@ -1,5 +1,0 @@
-HTML, CSS, JS - Jedi Course
-CSS Exercises
-------------------------
-
-Make a grid that looks the same as the one in the table exercise in the HTML part, but with divs and display:grid.

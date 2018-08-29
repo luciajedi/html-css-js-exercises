@@ -4,7 +4,7 @@ JS Exercises
 
 #### Mix - IMPORTANT
 
-Using HTML5 tags (<header>, <article>, <main>, <section>, <footer>...) make a website that:
+Using HTML5 tags (header, article, main, section, footer...) make a website that:
 1. header: a carrousel (like in the previous exercise)
 1. a clock on top of the carrousel
 1. below the header: an input that greets you and the greeting changes while we are writing in the input (like "Hi [name]"). Check the event oninput.
@@ -24,7 +24,7 @@ It should change images every 2 seconds and also with some buttons.
 
 Make a website with a customizable greeting ("Hello" + {name}), and the name can be introduced by:
  - a prompt
- - an imnut + button
+ - an input + button
 
 #### Finding methods
 

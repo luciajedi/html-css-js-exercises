@@ -1,5 +1,0 @@
-HTML, CSS, JS - Jedi Course
-CSS Exercises
-------------------------
-
-What are the main differences of display block and inline? (Hint: check its attributes) What is inline-block?
