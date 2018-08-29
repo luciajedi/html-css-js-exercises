@@ -1,0 +1,12 @@
+HTML, CSS, JS - Jedi Course
+Bootstrap Exercises
+------------------------
+
+-> Create a 2 webistes with bootstrap components. Each website has to have a carousel with the photos inside the img folder. One website with cat photos and the other website with dog photos.
+
+The navigation between the two pages has to be done with 2 buttons and a dropdown with 2 options located in the navbar of each page.
+
+	- 1st Button that links the other website
+	- 2nd Button that does nothing
+	- 1st Dropdown option that links the other website
+	- 2nd Dropdown option that does nothing

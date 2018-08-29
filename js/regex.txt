@@ -1,6 +1,0 @@
-HTML, CSS, JS - Jedi Course
-JS Exercises
-------------------------
-
-Regex, which is a short of regular expressions, is a unique language to check if the sintax of an answer is what we expect: if it has numbers or letter, how many, order, etc.
-Search a bit about this topic and code a simple regular expression: we want the answer to have minimum five capital letters, from A to Y.

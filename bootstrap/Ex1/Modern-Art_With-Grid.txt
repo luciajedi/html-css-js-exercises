@@ -1,0 +1,7 @@
+HTML, CSS, JS - Jedi Course
+Bootstrap Exercises
+------------------------
+
+Grid -> Paint the modern art picture that is located in the folder (Composition with Red, Yellow, and Blue) with the bootstrap grid system and custom CSS
+
+*tip -> with css you only need to set colors and height
