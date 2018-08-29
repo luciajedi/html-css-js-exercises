@@ -37,6 +37,10 @@ Create and animate, with JQuery and CSS animations:
 - a div that moves in circles
 - a div that fades out (disappear), with a button or with a timer
 
+#### RSS
+
+Search about RSS. What are they used for? What type of format does it use? (like, is it JSON?)
+
 #### Game
 
 Card Game
