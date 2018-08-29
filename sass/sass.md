@@ -1,6 +1,5 @@
-HTML, CSS, JS - Jedi Course
-Sass Exercises
-------------------------
+# HTML, CSS, JS - Jedi Course
+## Sass Exercises
 
 #### Translation - IMPORTANT
 
@@ -17,7 +16,8 @@ Search about Sass map files (map.scss, NOT the data type) and how to make them w
 #### Variables
 
 Search about !default. Write an example of a real/possible use case of !default on a variable. 
-(The comment "to set a default value" is not enough)
+
+(The answer "to set a default value" is not enough)
 
 
 #### Advanced
