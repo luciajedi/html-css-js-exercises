@@ -1,6 +1,5 @@
-HTML, CSS, JS - Jedi Course
-CSS Exercises
-------------------------
+# HTML, CSS, JS - Jedi Course
+## CSS Exercises
 
 #### Gallery - IMPORTANT
 FIRST make a gallery in class with float. Then:
@@ -16,7 +15,7 @@ Copy only the colors, not other elements like stars or symbols.
 #### Bender
 
 Draw a bender with HTML and CSS. Use z-index.
-Optional: make its eyes move in circles
+Optional: make its eyes move in circles.
 
 #### Margin and padding
 
