@@ -8,10 +8,10 @@ We will go through different phases so we will be able to see the process, and a
 
 Do each part consecutively and check if everything works fine at the end of it. You can optionally do a commit (git) after every part, so if anything go wrong at least you have a "checkpoint".
 
-The name of this exercise varables and functions can be your own, I use mine just as example.
+The name of this exercise variables and functions can be your own, I use mine just as example.
 
 #### Part 1: Two rectangles
-1. Create an HTML with a canvas (fix the width and height). Also add some CSS:
+1. Create an HTML file with a canvas (fix the width and height). Also add some CSS:
   - center the canvas with flex
   - put a border so you can see the limits
 
@@ -45,7 +45,7 @@ The name of this exercise varables and functions can be your own, I use mine jus
   - size
   - color
 
-  And it will use the context to draw a rectangle with all this info. (Use rec(x,y,size,size) to draw the rectangle)
+  And it will use the context to draw a rectangle with all this info (use rec(x,y,size,size) to draw the rectangle).
 
 5. Finally, create the window.onload and an anonymus function that will call initialize().
 
@@ -54,7 +54,7 @@ The name of this exercise varables and functions can be your own, I use mine jus
   - two rectangles, one black in 0,0 and another red in a random position
 
 #### Part 2: The moving snake
-1. For this part we will need more variables
+1. For this part we will need more variables:
   - how many parts has the snake (it will start with 1 and every time it picks a fruit, it will add one more)
   - a variable to save the setInterval so we can clearInterval
   - an array, or 4 variables to save which direction will have the snake (set an initial direction!)
@@ -91,9 +91,9 @@ When a new direction is assigned, the array containing which direction are we go
 #### Part 3: Game Over
 1. To program the losing conditions we need, in update():
   - check if the snake goes outside the canvas (ALTERNATIVE: program that if it goes outside the canvas, it appears on the other side!)
-  - check if the snake head is in the same x y than one of its parts/other squares (use a for or a while)
+  - check if the snake head is in the same x and y than one of its parts/other squares (use a for or a while)
 
-  If something is true, it should be game over (I have a boolean gameover, but you can make a function if you please), and if not the snake should be updated normally
+  If something is true, it should be game over (I have a boolean gameover, but you can make a function if you please), and if not the snake should be updated normally.
 
 2. If it is game over and we want to end it like this:
   - in update: must clear the interval (clearInterval(name_of_interval))
