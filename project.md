@@ -2,7 +2,7 @@ HTML, CSS, JS - Jedi Course
 Final project
 ------------------------
 
-Needed:
+### Needed:
 - Write about:
     - Idea
     - Functionalities
@@ -11,7 +11,7 @@ Needed:
 - Basic drawing of the website
   (it's better give them papers)
 
-Example: Web curriculum
+### Example: Web curriculum
 
 Minimum requirements:
 - Sass (SCSS)
