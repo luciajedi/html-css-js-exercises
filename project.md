@@ -1,6 +1,5 @@
-HTML, CSS, JS - Jedi Course
-Final project
-------------------------
+# HTML, CSS, JS - Jedi Course
+## Final project
 
 ### Needed:
 - Write about:
@@ -18,7 +17,7 @@ Minimum requirements:
 - Animations / JQuery AJAX
 - Github Pages
 - 3 websites with HTML5 tags:
-    - Home: basic info + foto/video
+    - Home: basic info + photo/video
     - Gallery: images of your projects + link
     - Contact: form + some interaction in JS when clicking "submit"
 
