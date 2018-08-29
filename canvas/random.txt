@@ -1,9 +1,0 @@
-HTML, CSS, JS - Jedi Course
-Canvas Exercises
-------------------------
-
-Code:
-- a box with linear gradient
-- a blue rectagle that moves to the sides
-- two balls that bounce and if they collide, go to the opposite side
-- 3 vertical bars

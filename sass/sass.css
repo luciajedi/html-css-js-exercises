@@ -1,14 +1,8 @@
-HTML, CSS, JS - Jedi Course
-Sass Exercises
-------------------------
-
-Translate this CSS to Sass.
-
 #container{
   height: 50%;
-  weight: 100%;
+  width: 100%;
   margin: 0;
-  paddin: 0;
+  padding: 0;
 }
 
 td, th {
@@ -134,9 +128,9 @@ h4 {
 
 main{
   height: 50%;
-  weight: 100%;
+  width: 100%;
   margin: 0;
-  paddin: 0;
+  padding: 0;
 }
 
 .calendariMes td{
@@ -206,9 +200,9 @@ main{
 
 article{
   height: 50%;
-  weight: 100%;
+  width: 100%;
   margin: 0;
-  paddin: 0;
+  padding: 0;
 }
  
 .llista_noticies {padding-top:1em;}
@@ -264,9 +258,9 @@ article{
 
 section{
   height: 50%;
-  weight: 100%;
+  width: 100%;
   margin: 0;
-  paddin: 0;
+  padding: 0;
 }
 
 .horaris table{

@@ -1,5 +1,0 @@
-HTML, CSS, JS - Jedi Course
-Canvas Exercises
-------------------------
-
-Is canvas the new Flash? Do a little research and write an opinion about this topic.

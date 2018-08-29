@@ -1,5 +1,0 @@
-HTML, CSS, JS - Jedi Course
-Sass Exercises
-------------------------
-
-Search about Sass maps and how to make them work in your website. Do you find them useful?
