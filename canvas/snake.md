@@ -1,14 +1,13 @@
-HTML, CSS, JS - Jedi Course
-Canvas Exercises
-------------------------
+# HTML, CSS, JS - Jedi Course
+## Canvas Exercises
 
 ### Snake Tutorial
 
 We will go through different phases so we will be able to see the process, and also prevent major bugs.
 
-Do each part consecutively and check if everything works fine at the end of it. You can optionally do a commit (git) after every part, so if anything go wrong at least you have a "checkpoint".
+Do each part consecutively and check if everything works fine at the end of it. You can optionally do a commit (git) after every part, so if anything goes wrong at least you have a "checkpoint".
 
-The name of this exercise variables and functions can be your own, I use mine just as example.
+The name of the variables and functions can be your own, I use mine just as an example.
 
 #### Part 1: Two rectangles
 
@@ -16,41 +15,43 @@ The name of this exercise variables and functions can be your own, I use mine ju
    - center the canvas with flex
    - put a border so you can see the limits
 
-2. Now we star the JS. Create some variables:
+1. Now we start the JS. Create some variables:
    - an object (x, y) for the snake position
    - an object (x, y) for the fruit position
    - the size (in pixels) of the fruit
    - the size of the snake (the head) 
    - the size of the canvas
+   - a variable that saves the context (basic in all canvas)
 
-  I used the same size for the fruit and the snake.
-
-  And also, a basic variable in all canvas: the one that saves the context
-
-
-3. Let's create a function, initialize(), that will:
-   - find the canvas (getElementById) and save it in the variable created
-   - assign the context
-   - call updateFruit(), that will:
-    - calculate for the x a random number between 0 and the maximum size of the canvas
-      (be aware that if the position is canvas_max_size, you will not see the rectangle)
-      (also it would be better if you calculate it with increment of snake_size like (random of 1 to max_canvas/snake_size + 1) x snake_size)
-     - calculate the y as well
-     - call the draw function (it is described below!), with "red" in the color parameter
-   - call updateSnake() that will just call draw() with "black" in the color parameter
+   **I used the same size for the fruit and the snake.**
 
 
-4. And let's also create the draw(...) function. It will have some parameters: 
+1. Let's create a function, initialize(), that will:
+   * find the canvas (getElementById) and save it in the variable created
+   * assign the context
+   * call updateFruit(), that will:
+      1. calculate for the x a random number between 0 and the maximum size of the canvas
+      1. calculate the y as well
+      1. call the draw function (it is described below!), with "red" in the color parameter
+      
+      (be aware that if the x or y position is canvas_max_size, **you will not see the rectangle**)
+      
+      (also it would be better if you calculate the random number with increment of snake_size like (random of 1 to max_canvas/snake_size + 1) x snake_size)
+      
+   * call updateSnake() that will just call draw() with "black" in the color parameter
+
+
+1. And let's also create the draw(...) function. It will have some parameters: 
    - x
    - y
    - size
    - color
 
-   And it will use the context to draw a rectangle with all this info (use rec(x,y,size,size) to draw the rectangle).
+   And it will use the context to draw a rectangle with all this info (use `rec(x,y,size,size)` to draw the rectangle).
 
-5. Finally, create the window.onload and an anonymus function that will call initialize().
+1. Finally, create the window.onload and an anonymus function that will call initialize().
 
-6. YOU SHOULD SEE, in the website:
+1. **YOU SHOULD SEE**, in the website:
    - the centered canvas with borders
    - two rectangles, one black in 0,0 and another red in a random position
 
