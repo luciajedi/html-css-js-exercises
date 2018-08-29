@@ -1,6 +1,5 @@
-HTML, CSS, JS - Jedi Course
-SEO Exercises
-------------------------
+# HTML, CSS, JS - Jedi Course
+## SEO Exercises
 
 #### Keywords
 
