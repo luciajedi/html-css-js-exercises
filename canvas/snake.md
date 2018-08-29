@@ -70,10 +70,10 @@ and to check which key is pressed (new_event.keyCode). It will be:
 When a new direction is assigned, the array containing which direction are we going should have only one direction assigned, all others should be cleared.
 
 3. We need an update() function that will:
-  - clear the screen
-  - check if the fruit and the snake are in the same position, so it can call updateFruit() and add 1 to the varable that count how many snake parts we have
-  - if not, it will call the drawFruit() function, that will draw the fruit in the same position (because the screen is clear now)
-  - also it will call the updateSnake() function
+   - clear the screen
+   - check if the fruit and the snake are in the same position, so it can call updateFruit() and add 1 to the varable that count how many snake parts we have
+   - if not, it will call the drawFruit() function, that will draw the fruit in the same position (because the screen is clear now)
+   - also it will call the updateSnake() function
 
 4. To the updateSnake() function we will add:
    - a variable to save the current position
