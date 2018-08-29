@@ -60,7 +60,7 @@ What are this tags for?
 - `<sup>`
 - `<legend>`
 
-What is an empty tag? Give an example
+What is an empty tag? Give an example.
 
 #### URL Encode
 
