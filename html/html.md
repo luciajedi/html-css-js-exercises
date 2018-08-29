@@ -1,6 +1,5 @@
 # HTML, CSS, JS - Jedi Course
 ## HTML Exercises
-------------------------
 
 #### Curriculum - IMPORTANT
 
